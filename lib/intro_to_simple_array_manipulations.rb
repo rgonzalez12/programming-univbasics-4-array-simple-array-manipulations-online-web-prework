@@ -52,6 +52,7 @@ def using_delete(arr, str)
 end
 
 def using_delete_at(arr, i)
+  deleted_element = arr
   
   
   
