@@ -49,6 +49,7 @@ end
 
 def using_delete(arr, str)
   deleted_instructors = str.delete("str")
+end
   
   
 
