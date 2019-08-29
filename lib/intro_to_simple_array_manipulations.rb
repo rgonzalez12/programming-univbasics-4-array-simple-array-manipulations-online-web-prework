@@ -55,11 +55,3 @@ def using_delete_at(arr, i)
   deleted_element = arr.delete_at(i)
   return deleted_element
 end
-  
-  
-  
-  
-
-
-  
-  
